@@ -1,0 +1,38 @@
+{
+    "name": "thirty3tools/yii2-base-model",
+    "description": "BaseModel and related classes for Yii2",
+    "keywords": [
+      "33t",
+      "thirty3",
+      "thirtythree",
+      "basemodel",
+      "base",
+      "model",
+      "yii2",
+      "yii",
+      "yii 2",
+      "base model"
+    ],
+    "type": "yii2-extension",
+    "authors": [
+      {
+        "name": "Thirty3.Tools Team",
+        "email": "support@thirty3.tools",
+        "homepage": "https://thirty3.tools",
+        "role": "Developer"
+      }
+    ],
+    "support": {
+        "issues": "https://github.com/Thirty3Tools/yii2-base-model/issues",
+        "source": "https://github.com/Thirty3Tools/yii2-base-model"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "thirty3tools\\basemodel\\": ""
+        }
+    }
+}
